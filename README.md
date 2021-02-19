@@ -11,7 +11,7 @@ A project made to learn and apply different concepts in Redux-saga. Being new to
 ![ss1](public/what_the_splash_1.png)
 ![ss2](public/what_the_splash_2.png)
 
-## Sample Deployment :
+## Sample Deployment : https://jaykaku.github.io/What-the-Splash/
 
 ### Setup
 
