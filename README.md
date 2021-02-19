@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # What the Splash !
 
-A project made to learn and apply different concepts in Redux-saga. Being new to Redux-saga here is to the link tutorial I followed
+A project made to learn and apply different concepts in Redux-saga. Being new to Redux-saga [here](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39) is to the link tutorial I followed.
 
 ### Sample Deployment : https://jaykaku.github.io/What-the-Splash/
 
