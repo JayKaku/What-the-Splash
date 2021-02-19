@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/What-the-Splash/static/css/main.5b24b6b2.chunk.css",
+    "main.js": "/What-the-Splash/static/js/main.07c3acbe.chunk.js",
+    "main.js.map": "/What-the-Splash/static/js/main.07c3acbe.chunk.js.map",
+    "runtime-main.js": "/What-the-Splash/static/js/runtime-main.a2be5f9f.js",
+    "runtime-main.js.map": "/What-the-Splash/static/js/runtime-main.a2be5f9f.js.map",
+    "static/js/2.9ae58a09.chunk.js": "/What-the-Splash/static/js/2.9ae58a09.chunk.js",
+    "static/js/2.9ae58a09.chunk.js.map": "/What-the-Splash/static/js/2.9ae58a09.chunk.js.map",
+    "static/js/3.fae6cbfc.chunk.js": "/What-the-Splash/static/js/3.fae6cbfc.chunk.js",
+    "static/js/3.fae6cbfc.chunk.js.map": "/What-the-Splash/static/js/3.fae6cbfc.chunk.js.map",
+    "index.html": "/What-the-Splash/index.html",
+    "static/css/main.5b24b6b2.chunk.css.map": "/What-the-Splash/static/css/main.5b24b6b2.chunk.css.map",
+    "static/js/2.9ae58a09.chunk.js.LICENSE.txt": "/What-the-Splash/static/js/2.9ae58a09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2be5f9f.js",
+    "static/js/2.9ae58a09.chunk.js",
+    "static/css/main.5b24b6b2.chunk.css",
+    "static/js/main.07c3acbe.chunk.js"
+  ]
+}
